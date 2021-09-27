@@ -25,3 +25,4 @@ This is like a buffer between your local system and the remote repo.
 
 "git commit" -> prompted for commit message -> Type the message -> Press Enter
 "git commit -m "commit message" "
+"git commit -a"
