@@ -14,3 +14,14 @@ Staging area is like a buffer between the changes and commit(typically saving yo
 
 "git add <filename>"
 "git add <directory>"
+
+# git commit
+
+This is similar to saving a file.
+
+This is like a buffer between your local system and the remote repo.
+
+## Examples
+
+"git commit" -> prompted for commit message -> Type the message -> Press Enter
+"git commit -m "commit message" "
