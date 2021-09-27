@@ -23,6 +23,6 @@ This is like a buffer between your local system and the remote repo.
 
 ## Examples
 
-"git commit" -> prompted for commit message -> Type the message -> Press Enter
+"git commit" -> Prompted for commit message -> Type the message -> Press Esc -> :wq -> Press Enter
 "git commit -m "commit message" "
 "git commit -a"
