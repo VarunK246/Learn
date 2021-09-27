@@ -1,4 +1,4 @@
-# Learn
+# Git and GitHub
 
 Exploring Github and Git
 
