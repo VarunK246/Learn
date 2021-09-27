@@ -12,8 +12,8 @@ Staging area is like a buffer between the changes and commit(typically saving yo
 
 ## Examples
 
-"git add <filename>"
-"git add <directory>"
+"git add filename"
+"git add directory"
 
 # git commit
 
@@ -24,5 +24,7 @@ This is like a buffer between your local system and the remote repo.
 ## Examples
 
 "git commit" -> Prompted for commit message -> Type the message -> Press Esc -> :wq -> Press Enter
+
 "git commit -m "commit message" "
+
 "git commit -a"
