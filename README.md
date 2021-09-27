@@ -28,3 +28,11 @@ This is like a buffer between your local system and the remote repo.
 "git commit -m "commit message" "
 
 "git commit -a"
+
+# git diff
+
+This shows all the changes made in the all the files.
+
+## git diff -staged
+
+This shows the difference between the files in the staged area and the recent commit.
